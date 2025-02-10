@@ -1,5 +1,5 @@
 # portfolio-simple-website
-This is my personal portfolio website built with HTML and basic CSS. The website consists of two pages: the Home page, which introduces who I am and highlights my work, and the Contact page, where visitors can reach out to me for inquiries or collaborations.
+Welcome to my portfolio website built with HTML and basic CSS. The website consists of two pages: the Home page, which introduces who I am and highlights my work, and the Contact page, to get in touch with me it was created using HTML and basic CSS to provide a clean and strightforwardnuser experience.
 
 ## pages
 
