@@ -10,7 +10,7 @@ Welcome to my portfolio website built with HTML and basic CSS. The website consi
   -HTML5
   -CSS3
 ## to view
- you can access my portfolio website by visiting [link] feel free to open to explore the content
+ you can access my portfolio website by visiting [https://mohamednaseer07.github.io/portfolio-simple-website/] feel free to open to explore the content
 
  ## contributing
  if you'd like to contribute or suggest improvement, please feel free to open an issue or create pull request
